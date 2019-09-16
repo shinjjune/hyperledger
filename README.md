@@ -44,7 +44,8 @@ kafka방식은 분산 메시징 시스템인 kafka cluster를 통해 orderer가 
 
 하이퍼레저 패브릭에서는 CA노드를 통해 1차적으로 사용자의 서명과 권한 등을 확인하고, peer를 통해 원장에 기록되기 전에 보증 정책(Endorsement Policy)을 준수하는지 확인하는 과정을 거친다. 보증 정책은 보통 해당 트랜잭션이 지정된 peer들의 허가를 받아야 한다는 내용인데, 원장을 공유하는 채널별로 참여자들은 다양한 방식으로 보증 정책을 설정할 수 있다.
 
-
+Peer& Organization
+![image](https://user-images.githubusercontent.com/47058441/64929884-638d9e00-d866-11e9-9489-5f501bd527a9.png)
 
 
  
