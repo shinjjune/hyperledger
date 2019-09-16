@@ -50,6 +50,9 @@ kafka방식은 분산 메시징 시스템인 kafka cluster를 통해 orderer가 
 ![image](https://user-images.githubusercontent.com/47058441/64929898-8455f380-d866-11e9-8aa0-5c851dcafb23.png)
 
  
+### hyperleger fabric 구성
+
+![image](https://user-images.githubusercontent.com/47058441/64930050-f844cb80-d867-11e9-980b-669e0e7cf9a0.png)
 
   
   
