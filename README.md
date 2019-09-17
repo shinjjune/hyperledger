@@ -56,4 +56,18 @@ kafka방식은 분산 메시징 시스템인 kafka cluster를 통해 orderer가 
 
   
   
+### 합의 알고리즘(Consensus Algorithm)
+  
+  
+* Paxos/Raft
+
+* PBFT(Practical Byzantine Fault Tolerance)
+ 
+* Sieve
+  
+* PoW
+  
+* PoS
+  
+  
   
